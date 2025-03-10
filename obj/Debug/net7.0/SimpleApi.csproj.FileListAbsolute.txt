@@ -1,0 +1,7 @@
+/home/tulshiram/dotnet_poc/backend/obj/Debug/net7.0/SimpleApi.csproj.AssemblyReference.cache
+/home/tulshiram/dotnet_poc/backend/obj/Debug/net7.0/SimpleApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/tulshiram/dotnet_poc/backend/obj/Debug/net7.0/SimpleApi.AssemblyInfoInputs.cache
+/home/tulshiram/dotnet_poc/backend/obj/Debug/net7.0/SimpleApi.AssemblyInfo.cs
+/home/tulshiram/dotnet_poc/backend/obj/Debug/net7.0/SimpleApi.csproj.CoreCompileInputs.cache
+/home/tulshiram/dotnet_poc/backend/obj/Debug/net7.0/SimpleApi.MvcApplicationPartsAssemblyInfo.cs
+/home/tulshiram/dotnet_poc/backend/obj/Debug/net7.0/SimpleApi.MvcApplicationPartsAssemblyInfo.cache
